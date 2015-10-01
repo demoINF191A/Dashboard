@@ -8,7 +8,7 @@ This use case describes how the Bank Customer uses the ATM to withdraw money to 
 
 2.2 Bank
 
-3 Preconditions
+3 Preconditions (Add more detailed conditions)
 
 There is an active network connection to the Bank.
 
