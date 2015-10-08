@@ -1,4 +1,4 @@
-1 Brief Description
+1 Brief Description adding some text
 
 This use case describes how the Bank Customer uses the ATM to withdraw money to his/her bank account.
 
